@@ -5,16 +5,6 @@
 💡 Interested in Artificial Intelligence, Computer Vision, and Cloud Deployment
 ---
 
-## 📊 GitHub Stats
-
-![Sangami's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANGAMI-1410&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SANGAMI-1410&layout=compact&theme=tokyonight)
-
----
-
----
-
 ## 🛠 Skills
 
 ### Programming
