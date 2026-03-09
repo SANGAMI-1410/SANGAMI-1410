@@ -35,5 +35,5 @@
 
 ## 📫 Contact
 
-LinkedIn: Add your LinkedIn link here  
-Email: your-email@example.com
+LinkedIn: https://www.linkedin.com/in/sangami-kuppusamy-7770b2236/
+Email: sangamikuppusamy517@gmail.com
