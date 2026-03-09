@@ -1,60 +1,42 @@
 # Hi, I'm Sangami 👋
 
-🎓 Integrated M.Tech Software Engineering Student at VIT  
-🤖 Interested in Artificial Intelligence, Computer Vision, and Cloud Deployment  
+🎓 Integrated M.Tech Software Engineering Student at Vellore Institute of Technology (VIT)
+
+💡 Interests: Artificial Intelligence, Computer Vision, and Cloud Deployment
 
 ---
 
 ## Skills
 
+Programming
 - Python
 - SQL
+
+Artificial Intelligence
 - Machine Learning
 - Computer Vision
 - YOLO
 - OpenCV
+
+Cloud Technologies
 - AWS (SageMaker, Lambda, S3)
-- Docker
 
 ---
 
-## Projects
+## Featured Projects
 
-🔹 AI-Based Drone Livestock Monitoring System  
-Object detection system using YOLO to identify and count livestock from drone video frames.
+1. ASTROVA Drone Surveillance  
+   AI-based drone surveillance system using YOLO object detection and AWS cloud services.
 
-🔹 Coconut Yield Prediction using Machine Learning  
-Regression model to predict coconut yield based on environmental datasets.
+2. Coconut Yield Prediction using Machine Learning  
+   AI model that analyzes agricultural data such as weather, soil conditions, and crop history to predict coconut yield.
 
-🔹 Gesture Controlled Tic Tac Toe  
-Interactive game using hand gestures and speech recognition with OpenCV and MediaPipe.
-
----
-
-## Currently Learning
-
-- Data Structures and Algorithms
-- Backend Development
-- Cloud-Based AI Deployment
+3. Gesture Controlled Tic Tac Toe  
+   Computer vision based Tic Tac Toe game using hand gestures and speech recognition with OpenCV and MediaPipe.
 
 ---
 
-## Connect With Me
+## Contact
 
-LinkedIn: https://linkedin.com  
-GitHub: https://github.com/SANGAMI-1410
-
-<!--
-**SANGAMI-1410/SANGAMI-1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn: Add your LinkedIn link here  
+Email: your-email@example.com
