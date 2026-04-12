@@ -95,5 +95,3 @@ Automated livestock counting from drone footage — replaced manual, error-prone
 
 ---
 
-*"Most resumes show effort. Very few show judgment."*  
-*I try to show both.* 🚀
