@@ -52,7 +52,7 @@ Built a fully offline mobile app for plant and fruit identification — zero int
 - Collected and cleaned **2,000 images across 10 classes** (5 fruits, 5 plants); applied augmentation to handle class imbalance
 - Achieved **84% validation accuracy** on-device; integrated offline GPS via pre-downloaded OpenStreetMap tiles
 
-[Demo Video](https://drive.google.com/file/d/1z052xzf3amppKsCInQMN6Gb18s3RRJH/view?usp=sharing) | [GitHub Repo](https://github.com/SANGAMI-1410/Offline-AI-Survival-Assistant)    
+  [Demo Video](https://drive.google.com/file/d/1z052xzf3amppKsCInQMN6Gb18s3RRJH/view?usp=sharing) | [GitHub Repo](https://github.com/SANGAMI-1410/Offline-AI-Survival-Assistant)    
 ---
 
 ### 🚁 AI-Based Drone Livestock Monitoring System
