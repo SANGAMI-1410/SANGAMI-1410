@@ -81,10 +81,10 @@ Automated livestock counting from drone footage — replaced manual, error-prone
 ## 📜 Certifications
 
 - 🏅 Microsoft Certified: Azure AI Fundamentals — *Microsoft, July 2024*
+- 💻 Introduction to Amazon SageMaker — Amazon Web Services, May 2026
 - 📊 Data Analysis with Python — *IBM Developer Skills Network, July 2024*
 - 🗄️ SQL and Relational Databases 101 — *IBM Developer Skills Network, March 2025*
-- 🌐 IoT and Connected Devices — *VIT, June 2024*
-- 📈 Google Analytics Certification — *Google, February 2025*
+
 
 ---
 
