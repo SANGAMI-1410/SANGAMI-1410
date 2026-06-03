@@ -1,6 +1,6 @@
 # Hi, I'm Sangami Kuppusamy 👋
 
-### Final Year Integrated M.Tech Student @ VIT | AI • MLOps • Data Engineering
+### Integrated M.Tech @ VIT (2021–2026) | AI • MLOps • Computer Vision
 
 I build ML systems that don't just work in notebooks — they work in production.  
 Currently focused on **ML pipeline monitoring, cloud-based deployment, and computer vision** — with hands-on experience from a 10-month internship at an aerospace startup.
@@ -73,7 +73,7 @@ Automated livestock counting from drone footage — replaced manual, error-prone
 | **Languages** | Python, SQL |
 | **AI/ML** | YOLO, OpenCV, Scikit-learn, CNN, MLflow, TensorFlow Lite, EfficientNet |
 | **Cloud** | AWS (SageMaker, Lambda, S3, ECR, Kinesis), Docker |
-| **Backend** | FastAPI, REST APIs, OOP, Data Structures |
+| **Backend** | FastAPI, REST APIs |
 | **Tools** | Git, GitHub, Streamlit, Flutter |
 
 ---
